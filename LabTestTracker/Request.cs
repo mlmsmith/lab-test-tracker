@@ -1,6 +1,6 @@
 namespace LabTestTracker;
 
-public class Sample
+public class Request
 {
     
 }
